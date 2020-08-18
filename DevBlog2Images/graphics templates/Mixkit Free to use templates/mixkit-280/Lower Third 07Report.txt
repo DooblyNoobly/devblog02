@@ -1,0 +1,39 @@
+Report created: 
+	13/01/2020	03:06:13
+
+Project name: Lower Third 07.aep
+
+Source files collected to: 
+	C:\Users\Envato Studio Brazil\AppData\Local\Temp\aegraphic\ece45060-5a3f-4e72-91e4-39e55ad74083\collectprj
+
+Source files collected: For target comp
+
+Collected comps:  
+	Lower Third 07
+	Text 02
+	Text 01
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  5
+
+Effect:  Color Control
+	
+Effect:  Drop Shadow
+	
+Effect:  Fill
+	
+Effect:  Slider Control
+	
+Effect:  Transform
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Open Sans”, Font style: “Bold”
+
